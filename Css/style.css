@@ -1,0 +1,23 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+}
+
+h1 {
+     color: blue;
+}
+
+.begzod {
+     font-size: 30px;
+     color: aqua;
+}
+
+#murod {
+     font-size: 90px;
+     color: blueviolet;
+}
+
+.red {
+     color: red;
+}
